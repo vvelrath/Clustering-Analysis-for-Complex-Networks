@@ -25,4 +25,4 @@ We have implemented the MCL using python as the programming language. We give as
    [-r inflation_factor]																													
 2) The Partition file(.clu) is generated in the same directory as the input file(.txt)															
 3) The networking file(.net) is file given to us for the home work. No changes were made to the file														
-3) Import the network file and the partition file into pajek and cross-check the results																	
+4) Import the network file and the partition file into pajek and cross-check the results																	
